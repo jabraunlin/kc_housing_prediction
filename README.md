@@ -1,1 +1,2 @@
-# kc_housing_prediction
+### Predicting Housing Prices in King County (Seattle)
+
