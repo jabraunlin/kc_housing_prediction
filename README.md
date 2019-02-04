@@ -3,7 +3,7 @@
 ## Initial Data Exploration
 The data is from 2014 to 2015. I first wanted to see if time would be a factor in the analysis. 
 There doesn't seem to be a trend or seasonality in home prices. 
-I still split training data and test data based on time in order to combat time leakage
+I still split training data and test data based on time in order to combat time leakage. 
 
 ![Time analysis](figures/price_over_time.png)
 
