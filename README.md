@@ -8,7 +8,7 @@ I still split training data and test data based on time in order to combat time 
 ![Time analysis](figures/price_over_time.png)
 
 
-The most important factor in real estate is location. The following displays house sale locations color mapped into quartiles. The highest priced houses (in red) tend to be in distinct neighborhoods north of the city or downtown. 
+The most important factor in real estate is location. The following displays house sale locations color mapped into quartiles. The highest priced houses (in red) tend to be in distinct neighborhoods north of the city or downtown. Another insight we can gain from this is that there isn't one Seattle-Metro market, but rather there are many sub-markets throughout the county. 
 
 ![Location](figures/lat_long.png)
 
